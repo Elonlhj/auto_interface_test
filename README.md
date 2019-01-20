@@ -1,0 +1,3 @@
+# auto_interface_test
+接口自动化
+主要是从excel中读取请求的地址和参数，最后输出请求结果，要求excel的格式必须正确
